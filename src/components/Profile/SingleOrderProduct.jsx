@@ -1,9 +1,10 @@
 import { Link } from 'react-router-dom';
+import { serverDomain } from '../../utils/constants';
 const SingleOrderProduct = item => {
   return (
     <div className="container-img">
       <Link to={`/products/${item.product}`}>
-        <img src={`http://localhost:3000${item.image}`} alt={item.name} />
+        <img src={serverDomain + item.image} alt={item.name} />
       </Link>
     </div>
   );
