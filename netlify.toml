@@ -3,4 +3,3 @@
   to = "https://e-commerce-trimmers-api.onrender.com"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
