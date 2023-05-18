@@ -12,10 +12,12 @@ const Services = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus est
-            perspiciatis quidem? Adipisci impedit nisi, sint vel sit nihil
-            dolorum fuga atque vitae eius eos asperiores maxime quos repudiandae
-            quae.
+            Our trimmers are designed to provide maximum precision and control,
+            allowing you to get the perfect trim every time. Our trimmers come
+            equipped with a variety of attachments, giving you the ability to
+            adjust the length and intensity of your trim. Our trimmers also
+            feature a powerful motor, giving you the power and control needed to
+            get the perfect look.
           </p>
         </div>
         <div className="services-center">

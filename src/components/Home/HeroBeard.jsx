@@ -20,11 +20,11 @@ const HeroBeard = () => {
         </div>
         <div className="overlay">
           <div className="text-container">
-            <h3>Lorem ipsum dolor sit.</h3>
+            <h3>Professional Hair Care Products – Trimman </h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas
-              optio sunt natus rerum consequatur nisi quo maxime dolorem
-              accusamus saepe, ipsa eligendi dolor alias ullam!
+              Shop professional grade hair care products from Trimman. Get the
+              best hair care oils, shampoos and conditioners to keep your
+              tresses looking their best.
             </p>
             <Link to="/products/skin-care" className="btn btn-big btn-light">
               shop now

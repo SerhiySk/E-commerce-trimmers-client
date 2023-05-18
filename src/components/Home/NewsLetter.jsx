@@ -8,9 +8,10 @@ const NewsLetter = () => {
           <div>
             <h3>Join our newsletter and get 20% off</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Reprehenderit veritatis tenetur necessitatibus explicabo fugit
-              ratione nesciunt odit blanditiis enim sit!
+              Subscribing to our newsletter is a great way to stay up-to-date
+              with our latest product releases and take advantage of exclusive
+              discounts. As an added bonus, new subscribers receive a 20%
+              discount on their first purchase. Don't miss out - sign up today!
             </p>
           </div>
           <form className="contact-form">

@@ -16,10 +16,11 @@ const Hero = () => {
         </div>
         <div className="overlay">
           <div className="text-container">
-            <h3>Lorem ipsum dolor sit.</h3>
+            <h3>Professional Trimmers - Get the Best Results with Trimman</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque,
-              nam possimus. Repudiandae cum ex cumque!
+              Get the professional trim you deserve with premium trimmers from
+              Trimman. Our trimmers guarantee precision and comfort to get the
+              perfect look. Shop online with free shipping today!
             </p>
             <Link to="/products/trimmers" className="btn btn-big btn-light">
               shop now

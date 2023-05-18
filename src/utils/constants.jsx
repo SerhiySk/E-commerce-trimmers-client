@@ -111,18 +111,18 @@ export const services = [
     id: 1,
     icon: <GiCompass />,
     title: 'mission',
-    text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+    text: 'The Trimman Company is dedicated to providing quality hair trimmers and other related products for all your hair care needs. We understand the importance of personal grooming and beauty, which is why we strive to provide our customers with the best products available. Our range includes a variety of trimmer models that are designed to give you precision results every time.',
   },
   {
     id: 2,
     icon: <GiDiamondHard />,
     title: 'vision',
-    text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+    text: 'We strive to provide our customers with products that are of the highest quality, ensuring satisfaction with every purchase. We understand that having a great look is important and we want to assist our customers in achieving their desired look with ease.',
   },
   {
     id: 3,
     icon: <GiStabbedNote />,
     title: 'history',
-    text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+    text: 'Since our launch 10 years ago, Trimman has become known as the go-to experts in trimmers. Our team of professionals have been trusted by thousands of customers for their trimming needs. We provide comprehensive services that include expert advice, product knowledge and a wide range of products to choose from. Not only do we offer competitive prices,',
   },
 ];
